@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **react,javascript,and any other piece of code!**
 
-- 📫 How to reach me **bsernaggio@gmail.com**
+- 📫 How to reach me **bsernaggio@gmail.com and my linkedin**
 
-- ⚡ Fun fact **I am bilingual**
+- ⚡ Fun fact **I am bilingual and I am double jointed in my thumbs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
