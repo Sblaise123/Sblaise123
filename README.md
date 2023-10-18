@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sernaggio Blaise</h1>
-<h3 align="center">A passionate Full stack developer</h3>
+<h3 align="center">A Full stack developer</h3>
 
 - 🔭 I’m currently working on **A portfilo**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase and other languages**
 
-- 💬 Ask me about **react,javascript,**
+- 👯 I’m looking to collaborate on **some apps and web apps**
+
+- 💬 Ask me about **react,javascript,and any other piece of code!**
 
 - 📫 How to reach me **bsernaggio@gmail.com**
 
